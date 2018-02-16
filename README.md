@@ -18,4 +18,3 @@ I've lived in multiple places!
 # Crib Three
   
   <body>What an amazing castle. I came here because of the beautiful plains, the great sky, and the people are just great. Gondor even have this amazing tree on top of the foundation. But the king at the time sucked. Nice white walls. Everybody in this photo dies. </body>
-
