@@ -5,7 +5,7 @@ I've lived in multiple places! Counties even!
 <img src="http://4.bp.blogspot.com/-m46PrDD2aBQ/VBXYLtbaYrI/AAAAAAAAIgM/9FRCZBEyCD0/s1600/promo_thelordoftherings.png" alt="text">	
 
 # Crib One
-  <body> I have many cribs. One is in Revendell! The place of the Elves. Only problem is the increase in orcs, place is going down. Revenue went downn after Sauron came. Ignore the guy on the belcony. He's annoying. </body> 
+  <body> I have many cribs. One is in Revendell! The place of the Elves. Only problem is the increase in orcs, place is going down. Revenue went downn after Sauron came. </body> 
 
 ### Markdown
 
