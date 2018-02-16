@@ -21,7 +21,7 @@ I've lived in multiple places!
 
 <a href="https://lifesaver1414.github.io/Lifelesson/"> Lifelesson </a>
 
-<a href="https://lifesaver1414.github.io/Past-Residences/"> Past Residences </a>
+<a href="https://lifesaver1414.github.io//"> Homepage </a>
 
 <a href="https://lifesaver1414.github.io/Pretty-Majestic/"> Pretty Majestic </a>
 
