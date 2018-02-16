@@ -15,5 +15,5 @@ I've lived in multiple places! Counties even!
 <img src="http://images2.fanpop.com/image/photos/9500000/Minas-Tirith-minas-tirith-9563582-960-404.jpg" alt="text">	
 
 # Crib Three
-  <body> What an amazing castle. I came here because of the beautiful plains, the great sky, and the people are just great. They even have this amazing tree on top of the foundation. But the king at the time sucked. Nice white walls. Everybody in this photo dies.
+  <body> What an amazing castle. I came here because of the beautiful plains, the great sky, and the people are just great. Gondor even have this amazing tree on top of the foundation. But the king at the time sucked. Nice white walls. Everybody in this photo dies.
 
