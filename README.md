@@ -18,3 +18,11 @@ I've lived in multiple places!
 # Crib Three
   
   <body>What an amazing castle. I came here because of the beautiful plains, the great sky, and the people are just great. Gondor even have this amazing tree on top of the foundation. But the king at the time sucked. Nice white walls. Everybody in this photo dies. </body>
+
+<a href="https://lifesaver1414.github.io/Lifelesson/"> Lifelesson </a>
+
+<a href="https://lifesaver1414.github.io/Past-Residences/"> Past Residences </a>
+
+<a href="https://lifesaver1414.github.io/Pretty-Majestic/"> Pretty Majestic </a>
+
+<a href="https://lifesaver1414.github.io/Sources/"> Sources </a>
