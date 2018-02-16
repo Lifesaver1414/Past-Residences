@@ -9,6 +9,8 @@ I've lived in multiple places! Counties even!
 
 <img src="http://i.kinja-img.com/gawker-media/image/upload/s--YqahBzX1--/18lrbet4xu1hjjpg.jpg" alt="text">	
 
+<br> 
+
 # Crib Two
   <body> So get this, your not going to believe it. I walked into this town one day, "The Shire," and decided "Im going to take someones house," and I did. Tricked a hobbit into coming on a quest with me, "We need a theif," I told him. So he took the deed and everything he had, and came with me. Unknowest that I took the deed in his sleep.....guess who's the better theif......The view is amazing.....
 
