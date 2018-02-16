@@ -7,34 +7,12 @@ I've lived in multiple places! Counties even!
 # Crib One
   <body> I have many cribs. One is in Revendell! The place of the Elves. Only problem is the increase in orcs, place is going down. Revenue went downn after Sauron came. </body> 
 
-### Markdown
+<img src="http://i.kinja-img.com/gawker-media/image/upload/s--YqahBzX1--/18lrbet4xu1hjjpg.jpg" alt="text">	
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Crib Two
+  <body> So get this, your not going to believe it. I walked into this town one day, "The Shire," and decided "Im going to take someones house," and I did. Tricked a hobbit into coming on a quest with me, "We need a theif," I told him. So he took the deed and everything he had, and came with me. Unknowest that I took the deed in his sleep.....guess who's the better theif......The view is amazing.
 
 # Header 1
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Lifesaver1414/Past-Residences/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
