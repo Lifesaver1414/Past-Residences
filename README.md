@@ -2,7 +2,7 @@
 
 I've lived in multiple places! Counties even!
 
-<img src=http://3.bp.blogspot.com/-sYUuTnP9BcE/TsD8fSGXx9I/AAAAAAAAAVg/3oqTmyStaqo/s1600/rivendell.jpg alt="text">
+<img src=http://3.bp.blogspot.com/-sYUuTnP9BcE/TsD8fSGXx9I/AAAAAAAAAVg/3oqTmyStaqo/s1600/rivendell.jpg alt="Elven Prosperity=1,000,000,000 Gold">
 
 # Crib One
   <body> I have many cribs. One is in Revendell! The place of the Elves. Only problem is the increase in orcs, place is going down. Revenue went downn after Sauron came. Ignore the guy on the belcony. He's annoying. </body> 
